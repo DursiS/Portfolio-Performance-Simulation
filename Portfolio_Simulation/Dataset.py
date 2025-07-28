@@ -1,7 +1,5 @@
 """ Outside Modules """
 import yfinance as yf
-import numpy as np
-import pandas as pd
 
 
 """ Only returns the price today """
